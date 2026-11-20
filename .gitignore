@@ -1,5 +1,32 @@
+# Build output
 bin/
 obj/
+dist/
+publish/
+
+# Visual Studio and editor files
 .vs/
+.vscode/
+.idea/
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
+
+# Test and coverage output
+TestResults/
+coverage/
+
+# Generated and temporary files
+*.pdb
+*.cache
+*.log
+*.tmp
+*.bak
+*.nupkg
+*.snupkg
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
